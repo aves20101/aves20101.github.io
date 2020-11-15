@@ -72,6 +72,20 @@ ul li:hover a {
 	letter-spacing: 4px;
 }
 /* Hero Section */
+.srcollbutton{
+	text-decoration:none;
+	color:white;
+}
+
+.img001{
+	background-color: #363636;
+	background-repeat:no-repeat;
+	background-size: contain;/*自動擴展*/
+	/*margin:auto;置中*/
+	width: auto;
+	height: 400px;
+	
+}
 .hero {
     background-color: #635252;
     padding-top: 150px;
